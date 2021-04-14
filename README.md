@@ -1,5 +1,3 @@
-Profile
-
 <p align="center">
   <a href="https://twitter.com/SheyPozo"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sheypozo/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
