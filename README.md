@@ -1,5 +1,3 @@
-# shey-
-
 Profile
 
 <p align="center">
