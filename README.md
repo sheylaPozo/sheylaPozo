@@ -15,7 +15,7 @@ Profile
 <p>🧠 Currently studying in Microverse.</p>
 <p>⚙️ I am the author of many solo projects and remote pair programming projects stored here in github.</p>
 <p>🎮 Gamer Girl / Streamer on Facebook, and Tarot Reader on Youtube.</p>
-<o>⚙️ You can follow my streams if curious clicking the icon right here <a href="https://www.facebook.com/SheyherzGames"target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FSheyherzGames" alt="Facebook logo" height="20"></a>.</a> Also here's my Youtube Channel <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; in case you want to subscribe or feel curious to watch some of my videos.</a> </p>
+<o>⚙️ You can follow my streams if curious clicking the icon right here <a href="https://www.facebook.com/SheyherzGames"target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FSheyherzGames" alt="Facebook logo" height="20"></a> if you enjoy gaming videos.</a> Also here's my Youtube Channel <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; in case you want to subscribe or feel curious to watch some of my videos.</a> </p>
 <p>💼 Looking for new opportunities.</p>
 
 ## My Stats
