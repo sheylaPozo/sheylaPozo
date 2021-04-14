@@ -10,7 +10,8 @@
 <p>💻 Full-Stack Developer. I started my career in 2019.</p>
 <p>🧠 Currently studying in Microverse.</p>
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in github.</p>
-<p>🎮 Gamer Girl / Streamer on Facebook, and Tarot Reader on Youtube.</p>
+<p>🎮 Gamer Girl ![PS](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) ![CSS](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+  / Streamer on Facebook, and Tarot Reader on Youtube.</p>
 <o>⚙️ You can follow my streams if curious clicking the icon right here <a href="https://www.facebook.com/SheyherzGames"target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FSheyherzGames" alt="Facebook logo" height="20"></a> if you enjoy gaming videos.</a>&nbsp;&nbsp; Also here's my Youtube Channel <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; in case you want to subscribe or feel curious to watch some of my videos.</a> </p>
 <p>💼 Looking for new opportunities.</p>
 
@@ -21,13 +22,41 @@
 
 ## Languages and Tools
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)
-![Github](https://img.shields.io/twitter/url?label=github&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FsheylaPozo)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Microsoft Excell](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
+![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Facebook Gaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
+
 
 ## Visitor count
 
