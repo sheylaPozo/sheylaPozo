@@ -16,7 +16,7 @@ Profile
 <p>⚙️ I am the author of many solo projects and remote pair programming projects stored here in github.</p>
 <p>🎮 Gamer Girl / Streamer on Facebook, and Tarot Reader on Youtube.</p>
 <o>⚙️ You can follow my streams if curious clicking the icon <a href="https://www.facebook.com/SheyherzGames"><img src="https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FSheyherzGames" alt="Facebook logo" height="20"></a>&nbsp;&nbsp;
-right here on the left</a> as well here's my Youtube Channel <a href="https://www.facebook.com/SheyherzGames"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; and you can subscribe pressing this icon on the left and selecting the option subscribe to keep up to date with any videos upcoming in advance.</a> </p>
+right here on the left,</a> and as well here's my Youtube Channel <a href="https://www.facebook.com/SheyherzGames"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; and you can subscribe pressing this icon on the left and selecting the option subscribe to keep up to date with any videos upcoming in advance.</a> </p>
 <p>💼 Looking for new opportunities.</p>
 
 ## My Stats
