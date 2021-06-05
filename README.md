@@ -3,7 +3,8 @@
   <a href="https://www.linkedin.com/in/sheypozo/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:shey.sternenstaub@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 
-## Hey everyone!👋, I am <a href="https://www.linkedin.com/in/sheypozo/">Sheyla Pozo</a>!
+## Hey everyone!👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am **Zulfizar Abdumurodova**, softwere developer.
+<img src="./Images/profile-img.jpg" alt="" style="width: 100%;">, I am <a href="https://www.linkedin.com/in/sheypozo/">Sheyla Pozo</a>!
 
 ## About me
 
