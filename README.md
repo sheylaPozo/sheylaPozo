@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://twitter.com/SheyPozo"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sheypozo/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
-  <a href="mailto:shey.sternenstaub@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
+  <a href="mailto:shey.sternenstaub@gmail.com"><img src="![image](https://user-images.githubusercontent.com/54015740/120898409-5b543400-c5f0-11eb-9ce0-84b8139e3526.png)" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 
 
 ## Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="./Images/profile-img.jpg" alt="" style="width: 100%;"> I am <a href="https://www.linkedin.com/in/sheypozo/">Sheyla Pozo</a>!
