@@ -25,9 +25,10 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheylaPozo" /> | <img src="https://github-readme-stats.vercel.app/api?username=sheylaPozo&show_icons=true" alt="sheylaPozo" /> |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 
-## Languages, Frameworks and Tools
+## Languages, Frameworks and Tools:
+---
 
-#Languages
+# Languages
 ---
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +46,8 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Tools
+---
+
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)
