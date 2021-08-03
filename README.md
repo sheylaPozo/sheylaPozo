@@ -111,7 +111,7 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 
 ## WorkSpace
 ---
-![interl corei3](https://img.shields.io/badge/Intel-Core_i5_3rd-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![interl corei3](https://img.shields.io/badge/Intel-Core_i3-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Windows10](https://img.shields.io/badge/Windows-Dell_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
 ## Visitor count
