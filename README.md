@@ -25,7 +25,7 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheylaPozo" /> | <img src="https://github-readme-stats.vercel.app/api?username=sheylaPozo&show_icons=true" alt="sheylaPozo" /> |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 
-## Languages, Frameworks and Tools:
+## Languages, Frameworks, data bases, and Tools:
 ---
 
 # Languages
