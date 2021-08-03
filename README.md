@@ -25,10 +25,10 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheylaPozo" /> | <img src="https://github-readme-stats.vercel.app/api?username=sheylaPozo&show_icons=true" alt="sheylaPozo" /> |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 
-## Languages, Frameworks and Libraries, data bases, and Tools:
+# Languages, Frameworks and Libraries, data bases, and Tools:
 ---
 
-# Languages:
+## Languages:
 ---
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
