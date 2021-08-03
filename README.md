@@ -8,7 +8,7 @@
 
 ## About me
 
-<p>💻 Full-Stack Developer. I started my career in 2019.</p>
+<p>💻 Full-Stack Software Developer. I started my career in 2019.</p>
 <p>🧠 Currently studying Software Engineering at <a href="https://www.microverse.org/"target="_blank"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a>.</p>
 <p>🌱 I’m learning JavaScript, Bootstrap, SASS, Ruby, RoR, React, Redux & Remote Pair Programming. </p>
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in github.</p>
