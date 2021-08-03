@@ -18,22 +18,35 @@
 <o>⚙️ You can follow my streams if curious clicking the icon right here <a href="https://www.facebook.com/SheyherzGames"target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FSheyherzGames" alt="Facebook logo" height="20"></a> if you enjoy gaming videos.</a>&nbsp;&nbsp; Also here's my Youtube Channel <a href="https://www.youtube.com/sheyherz" target="_blank"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; in case you want to subscribe or feel curious to watch some of my videos.</a> </p>
 <p>💼 Looking for new opportunities.</p>
 
+If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a project you need coded, don’t hesitate to contact me.
+
 ## My Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheylaPozo" /> | <img src="https://github-readme-stats.vercel.app/api?username=sheylaPozo&show_icons=true" alt="sheylaPozo" /> |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 
-## Languages and Tools
+## Languages, Frameworks and Tools
+
+#Languages
+---
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Phyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruvy on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
+
+## Frameworks
+---
+
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Tools
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -41,13 +54,19 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Microsoft Excell](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+## Apps and Operative Systems: 
+---
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows10](]https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
@@ -59,12 +78,10 @@
 ![Facebook Gaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Instagram](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)
 
-
-
-
+ 
+ 
 ## Visitor count
 
 <p> 
