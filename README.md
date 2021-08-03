@@ -28,7 +28,7 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 ## Languages, Frameworks and Libraries, data bases, and Tools:
 ---
 
-# Languages
+# Languages:
 ---
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +39,7 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 ![Phyton](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-## Frameworks and Libraries
+## Frameworks and Libraries:
 ---
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -55,9 +55,8 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 ---
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## Tools
+## Tools:
 ---
-
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebPack](https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
@@ -78,7 +77,6 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 
 ## Apps and Operative Systems: 
 ---
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
