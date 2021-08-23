@@ -108,10 +108,16 @@ If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a p
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## WorkSpace
 ---
-![interl corei3](https://img.shields.io/badge/Intel-Core_i3-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![intel corei3](https://img.shields.io/badge/Intel-Core_i3-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Windows10](https://img.shields.io/badge/Windows-Dell_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
 ## Visitor count
