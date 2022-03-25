@@ -11,14 +11,14 @@
 ## About me
 
 <p>💻 Full-Stack Software Developer. I started my career in 2019.</p>
-<p>🧠 Graduated from Software Engineering at <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a>.</p>
-<p>🌱 <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a> Taught me JavaScript, Bootstrap, SASS, Ruby, RoR, React, Redux & Remote Pair Programming, and soft skills. I know Digital Marketing, Phytom and other useful tools as well. </p>
+<p>🎓 Graduated from Software Engineering at <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a> with a Business oriented Barchelor's degree in Commercial Engineering.</p>
+<p>🧠 <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20"></a> Taught me JavaScript, Bootstrap, SASS, Ruby, RoR, React, Redux & Remote Pair Programming, and soft skills. Also Studied Digital Marketing certified by Google, and many other skills, frameworks, languages and tools listed bellow in this page.</p>
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in github.</p>
 <p>🎮 Gamer Girl ! I am a gamer since 1998 when I started off from PC games like Mario Bros,Pimball,Pacman, Among other basic Games of back then, after that I got my first console of PS1 back on the year 2001, being <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PS logo" height="20"></a> </a>&nbsp;&nbsp; By Sonic Media Entertainment the Cosole brand that I prefer from the Market, and through all these years is the only I have purchased. <a href="https://www.playstation.com/en-us/"></a> <br> Then since 2014 I have been in constant use of Steam Games Platform
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Games logo" height="20"></a></a>&nbsp;&nbsp; Since I use Steam Games a lot for entertainment and recreational purpouses.<a href="https://store.steampowered.com/"</a></a></p> 
 <p> 🎮 Streamer on Facebook, Video Game Creator, Tarot Reader on Youtube, Proffesional Psychic Medium, content creator, and Commercial Engineer.</p>
 <o>⚙️ You can follow my streams if curious clicking the icon right here <a href="https://www.facebook.com/SheyherzGames"><img src="https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FSheyherzGames" alt="Facebook logo" height="20"></a> if you enjoy gaming videos.</a>&nbsp;&nbsp; Also here's my Youtube Channel <a href="https://www.youtube.com/sheyherz/"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; in case you want to subscribe or feel curious to watch some of my videos.</a> </p>
-<p>💼 Looking for new opportunities.</p>
+<p>🌱 Looking for new opportunities 😁✨.</p>
 
 If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a project you need coded, don’t hesitate to [contact me](https://sheylapozo.github.io/Alt-Porfolio/).
 
