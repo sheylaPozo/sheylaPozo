@@ -9,7 +9,7 @@
 ## Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="./Images/profile-img.jpg" alt="" style="width: 100%;"> I am <a href="https://www.linkedin.com/in/sheypozo/">Sheyla Pozo</a>!
 
 ## About me
-
+---
 <p>💻 Full-Stack Software Developer. I started my career in 2019.</p>
 <p>🎓 Graduated from Software Engineering at <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a>.</p>
 <p>🧠 <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20"></a> Taught me HTML, CSS, JavaScript, Bootstrap, SASS, Ruby, RoR, React, Redux, Soft skills & Remote Pair Programming. I am also a self learner of many other skills, frameworks, languages and tools listed bellow in this page. So I learned Digital Marketing certified by Google</p>
