@@ -20,7 +20,7 @@
 <o>⚙️ You can follow my streams if curious clicking the icon right here <a href="https://www.facebook.com/SheyherzGames"><img src="https://img.shields.io/twitter/url?color=black&label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FSheyherzGames" alt="Facebook logo" height="20"></a> if you enjoy gaming videos.</a>&nbsp;&nbsp; Also here's my Youtube Channel <a href="https://www.youtube.com/sheyherz/"><img src="https://img.shields.io/twitter/url?color=black&label=youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fsheyherz" alt="Facebook logo" height="20"></a>&nbsp;&nbsp; in case you want to subscribe or feel curious to watch some of my videos.</a> </p>
 <p>🌱 Looking for new opportunities 😁✨.</p>
 
-If you like what you [see](https://sheylapozo.github.io/Porfolio/), and have a project you need coded, don’t hesitate to [contact me](https://sheylapozo.github.io/Alt-Porfolio/).
+If you like what you [see](https://meineportfolio.netlify.app/), and have a project you need coded, don’t hesitate to [contact me](https://sheylapozo.github.io/Alt-Porfolio/).
 
 ## My Stats
 
