@@ -11,7 +11,7 @@
 ## About me
 
 <p>💻 Full-Stack Software Developer. I started my career in 2019.</p>
-<p>🎓 Graduated as Full Stack developer at <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a>.</p>
+<p>🎓 Graduated as Full Stack developer on <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a>.</p>
 <p>🧠 <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20"></a> Taught me HTML, CSS, JavaScript, Bootstrap, SASS, Ruby, RoR, React, Redux, Soft skills & Remote Pair Programming. I am also a self learner of many other skills, frameworks, languages and tools listed bellow in this page. So I learned Digital Marketing certified by Google</p>
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in github.</p>
 <p>🎮 Gamer Girl ! I am a gamer since 1998 when I started off from PC games like Mario Bros,Pimball,Pacman, Among other basic Games of back then, after that I got my first console of PS1 back on the year 2001, being <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PS logo" height="20"></a> </a>&nbsp;&nbsp; By Sonic Media Entertainment the Cosole brand that I prefer from the Market, and through all these years is the only I have purchased. <a href="https://www.playstation.com/en-us/"></a> <br> Then since 2014 I have been in constant use of Steam Games Platform
