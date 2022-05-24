@@ -8,7 +8,7 @@
 
 ## Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="./Images/profile-img.jpg" alt="" style="width: 100%;"> I am <a href="https://www.linkedin.com/in/sheypozo/">Sheyla Pozo</a>! 
 
-## About me 🌸
+## About me 🌸🌸🌸
 
 <p>💻 Full-Stack Software Developer. I started my career in 2019.</p>
 <p>🎓 Graduated as Full Stack developer on <a href="https://www.microverse.org/"><img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">🔗</a></a>.</p>
