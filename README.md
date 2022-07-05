@@ -6,7 +6,7 @@
 </p>
 
 
-## Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px"> I am <a href="https://www.linkedin.com/in/sheypozo/">Sheyla Pozo</a>! 
+## Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.2px"> I am <a href="https://www.linkedin.com/in/sheypozo/">Sheyla Pozo</a>!>
 
 ## About me 🌸🌸🌸
 
